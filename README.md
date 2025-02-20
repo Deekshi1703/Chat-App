@@ -44,4 +44,4 @@ The chat message appears in all open browser windows in real time.
 
 
 OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/254fd8cd-127b-43f3-9101-f79a10016e86)
